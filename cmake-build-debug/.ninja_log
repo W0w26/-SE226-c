@@ -1,6 +1,0 @@
-# ninja log v5
-10	546	6998807593490410	CMakeFiles/lab1.dir/Lab1Q2.cpp.obj	4b33a9b85796ceb8
-1	536	6998807593520335	CMakeFiles/lab1.dir/main.cpp.obj	1d8ed586dfe00e4b
-20	547	6998807593570199	CMakeFiles/lab1.dir/Lab1Q3.cpp.obj	e127d7d68dddf54e
-4	471	6998812356654483	CMakeFiles/lab1.dir/Lab1Q4.cpp.obj	5ec482f15f598c20
-2	238	6998813474249581	build.ninja	9c566c353c83aa1c
